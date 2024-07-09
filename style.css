@@ -21,9 +21,9 @@ main{
     background-color: var(---Cream);
 }
 main .product{
-    width: 50rem;
+    width: 60rem;
     background-color: var(--White);
-    height: 37rem;
+    height: 42rem;
     border-radius: 1rem;
 }
 .product picture img{
@@ -31,12 +31,12 @@ main .product{
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
     width: 30rem;
-    height: 37rem;
+    height: 42rem;
 
 }
 .product .info{
     width: 30rem;
-    height: 37rem;
+    height: 42rem;
 }
 .product .info h5 {
     color: var(--Dark-grayish-blue);
@@ -51,7 +51,7 @@ font-weight: 800;
     color: var(--Dark-grayish-blue);
     line-height: 2;
     font-family: "Montserrat", sans-serif;
-
+    font-size: 1.4rem;
 } 
 .product .info .price span:not(:last-child){
 color: var(--Dark-cyan);
